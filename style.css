@@ -1,0 +1,15 @@
+.main{
+    padding-left: 16px;
+}
+
+
+@media only screen and (max-width: 480px) {
+
+    img{
+       height: 200px !important ;
+       width: 80% !important;
+    }
+    button{
+        margin: 10px;
+    }
+}
