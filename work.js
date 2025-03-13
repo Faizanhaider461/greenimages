@@ -35,6 +35,26 @@ function Img6(){
 
 }
 
+function Img7(){
+    a.src= "b6.jpg"
+
+}
+
+function Img8(){
+    a.src= "b7.webp"
+
+}
+
+function Img9(){
+    a.src= "b8.webp"
+
+}
+
+function Img10(){
+    a.src= "b9.jpg"
+
+}
+
 
 
 
